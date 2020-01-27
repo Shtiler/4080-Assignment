@@ -42,6 +42,7 @@
     <Folder Include="FlaskWebProject2\templates\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="FlaskWebProject2\4161 capitals.csv" />
     <Content Include="FlaskWebProject2\static\pics\pic1.jpg" />
     <Content Include="FlaskWebProject2\static\pics\pic2.jpg" />
     <pic3 Include="FlaskWebProject2\static\pics\pic3.jpg" />
@@ -53,6 +54,7 @@
     <Content Include="FlaskWebProject2\static\pics\pic9.jpg" />
     <Content Include="FlaskWebProject2\static\pics\pic10.jpg" />
     <Content Include="FlaskWebProject2\templates\PhotoAlbum.html" />
+    <Content Include="FlaskWebProject2\templates\Query.html" />
     <Content Include="requirements.txt" />
     <Content Include="FlaskWebProject2\static\content\bootstrap.css" />
     <Content Include="FlaskWebProject2\static\content\bootstrap.min.css" />

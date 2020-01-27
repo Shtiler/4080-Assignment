@@ -1,3 +1,6 @@
 Flask<1
 MatPlotLib
 Pandas
+flask-wtf
+flask-bootstrap
+flask-moment
